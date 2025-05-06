@@ -57,7 +57,7 @@ project/
 3. Review the analysis documents in `documentation/`.
 
 ## Methodology
-For details on the scoring logic and feature engineering, refer to the [Credit Scoring Methodology](documentation/Credit_Scoring_Methodology.md).
+For details on the scoring logic and feature engineering, refer to the [Credit Scoring Methodology](Credit Scoring Methodology Document.pdf).
 
 ## Results
 - The scoring system identifies wallets based on their historical behavior.
