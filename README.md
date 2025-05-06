@@ -63,6 +63,7 @@ The detailed methodology can be found in the [Credit Scoring Methodology Documen
 - The scoring system identifies wallets based on their historical behavior.
 - High-scoring wallets demonstrate responsible, protocol-aligned activities.
 - Low-scoring wallets exhibit risky or bot-like behavior.
+![image](https://github.com/user-attachments/assets/1997f4a9-4fa3-4b7b-9c9b-c49d73e2fb0c)
 
 ## Contributing
 Feel free to open issues or submit pull requests for improvements.
