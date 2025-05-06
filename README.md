@@ -27,9 +27,9 @@ project/
 │   ├── top_wallets.csv           # Output file with top 1,000 wallets
 │
 ├── documentation/
-│   ├── Credit_Scoring_Methodology.md  # Methodology document
 │   ├── Wallet_Analysis.md             # Analysis of high/low-scoring wallets
 │
+├── Credit Scoring Methodology Document.pdf  # Methodology document in PDF format
 ├── README.md                     # Project overview
 └── requirements.txt              # Python dependencies
 ```
@@ -57,7 +57,7 @@ project/
 3. Review the analysis documents in `documentation/`.
 
 ## Methodology
-For details on the scoring logic and feature engineering, refer to the [Credit Scoring Methodology](Credit Scoring Methodology Document.pdf).
+The detailed methodology can be found in the [Credit Scoring Methodology Document.pdf](./Credit%20Scoring%20Methodology%20Document.pdf).
 
 ## Results
 - The scoring system identifies wallets based on their historical behavior.
